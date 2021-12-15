@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Timeless</string>
+    <string name="timeless">Timeless</string>
+    <string name="stopwatch_logo">Stopwatch Logo</string>
+    <string name="working_state">Working state</string>
+    <string name="_00_00_00">00:00:00</string>
+    <string name="finish">Finish</string>
+    <string name="quit">Quit</string>
+    <string name="pause_stop_counter">Pause/stop counter</string>
+    <string name="circle_pulsation_first">Circle pulsation first</string>
+    <string name="circle_pulsation_second">Circle pulsation second</string>
+</resources>
